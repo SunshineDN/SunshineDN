@@ -12,7 +12,6 @@
     • CSS3;
 - 🤔 Procuro ajuda em CSS3
 - 💬 Me chame no email: douglasaugusto1103@gmail.com
-- 📫 How to reach me: ...
 - 😄 Pronomes: ele/dele
 
 <div align="center">
@@ -29,10 +28,13 @@
   <img align="right" alt="Sunshine-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/208234897159094273/39443ffa66796d67bd02796fddc7dfe7.webp?size=128">
 </div>
 
+##
+
 <div>
   <a href="https://www.instagram.com/xxisunshinexx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:douglasaugusto1103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/douglas-augusto-b2750224a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:douglasaugusto1103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=c92794" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/douglas-augusto-b2750224a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5581996724310?text=Ol%C3%A1,%20Douglas!%20Me%20chamo%20%5Bseu%20nome*%5D." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/SunshineDN/SunshineDN/blob/output/github-contribution-grid-snake.svg)
  
