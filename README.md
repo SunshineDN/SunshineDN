@@ -28,7 +28,7 @@
   <img align="center" alt="Sunshine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sunshine-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sunshine-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Sunshine-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/208234897159094273/39443ffa66796d67bd02796fddc7dfe7.webp?size=128">
+  <img align="right" alt="Sunshine-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/208234897159094273/a1fefdc639e19490cd3ddea81137305e.webp?size=128">
 </div>
 
 ##
