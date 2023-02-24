@@ -1,16 +1,18 @@
 ### Olá! Me chamo Douglas Augusto
 
-- 🔭 Estou procurando estágio na área de TI:
-    • Programação;
+- 🔭 Estou procurando emprego na área de TI:
+    • Desenvolvimento de Sistemas;
     • Suporte Técnico;
     • Qualidade de Software;
-- 🌱 Estudando: 
-    • Javascript;
+- 🌱 Hard skills:
+    • Angular CLI;
+    • React;
+    • Next JS;
+    • JavaScript;
     • JAVA;
     • Python;
-    • HTML5;
-    • CSS3;
-- 🤔 Procuro ajuda em CSS3
+    • HTML;
+    • CSS;
 - 💬 Me chame no email: douglasaugusto1103@gmail.com
 - 😄 Pronomes: ele/dele
 
